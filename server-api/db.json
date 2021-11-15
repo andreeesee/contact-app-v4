@@ -1,0 +1,97 @@
+{
+  "contacts": [
+    {
+      "id": "63b1f9db-d880-4dd4-a784-c91a0dc86966",
+      "fullName": "See Jerry J",
+      "email": "jerrysee@yahoo.com",
+      "number": "09279080048",
+      "location": "Cebu",
+      "regDate": "2021-11-09",
+      "newfullName": "See,  Jerry J."
+    },
+    {
+      "id": "bb90fe7e-13d2-4d9a-b51b-8aa99890ca4f",
+      "fullName": "Gomez Marites A",
+      "email": "gma@gma.com",
+      "number": "09172341231",
+      "location": "Manila",
+      "regDate": "2021-11-09",
+      "newfullName": "Gomez,  Marites A.",
+      "uid": "2"
+    },
+    {
+      "id": "8db72a7c-b3d2-44cc-b608-ecac2c35fb3e",
+      "fullName": "See Imelda B",
+      "email": "imeldasee@gmail.com",
+      "number": "09177171823",
+      "location": "Cebu",
+      "regDate": "2021-11-09"
+    },
+    {
+      "id": "10a85474-9797-4018-a079-9004df3e8aa9",
+      "fullName": "Reyes Kristine U",
+      "email": "tintin@gmail.com",
+      "number": "09175011233",
+      "location": "Manila",
+      "regDate": "2021-11-09"
+    },
+    {
+      "id": "5546e5dd-f9f2-4f66-b0fe-065954d0c38b",
+      "fullName": "Bartolome Peter I",
+      "email": "bpi@gmail.com",
+      "number": "0912345123",
+      "location": "Manila",
+      "regDate": "2021-11-10"
+    },
+    {
+      "id": "becba4ca-bc35-47f0-bd24-f329b754bc56",
+      "fullName": "Bartolome Abby I",
+      "email": "abby@gmnail.com",
+      "number": "09123751352",
+      "location": "Manila",
+      "regDate": "2021-11-10"
+    },
+    {
+      "id": "bda95c2c-19eb-4a15-97a8-bf23c2bed898",
+      "fullName": "See Andre B",
+      "email": "andresee@gmail.com",
+      "number": "09171097307",
+      "location": "Manila",
+      "regDate": "2021-11-15"
+    },
+    {
+      "id": "c0796180-fa2d-40ed-a5f8-21efe163bffa",
+      "fullName": "Gadot Gal G",
+      "email": "gag@gmail.com",
+      "number": "12390212",
+      "location": "Manila",
+      "regDate": "2021-11-15",
+      "newfullName": "Gadot,  Gal G.",
+      "uid": "8"
+    },
+    {
+      "id": "30dfe08c-3543-44ef-b8ea-313bfc20f82b",
+      "fullName": "See John A",
+      "email": "john.a.see@accenture.com",
+      "number": "09171097307",
+      "location": "Manila",
+      "regDate": "2021-11-15"
+    },
+    {
+      "id": "0c722ed4-33c2-4530-9f26-08c9338d4d2e",
+      "fullName": "Shelby Thomas T",
+      "email": "shelbs@gmail.com",
+      "number": "098091232",
+      "location": "Manila",
+      "regDate": "2021-11-15"
+    },
+    {
+      "id": "94ed6723-3b6b-4871-a7af-e24262d6b349",
+      "fullName": "Morningstar Lucifer G",
+      "email": "mlg@yahoo.com",
+      "number": "0912312132",
+      "location": "Cebu",
+      "regDate": "2021-11-15"
+    }
+  ]
+}
